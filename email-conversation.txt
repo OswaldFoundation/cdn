@@ -1,0 +1,278 @@
+Received: from 1058052472880
+
+named unknown
+
+by gmailapi.google.com
+
+with HTTPREST;
+
+Mon, 6 Aug 2018 01:22:40 -0700
+
+Date: Mon, 6 Aug 2018 01:22:40 -0700
+
+From: Anand Chowdhary <anandchowdhary@gmail.com>
+
+To: Bhavuk Khandelwal <bhavukdz@gmail.com>
+
+Message-Id: <CANhv5=GCttY5OavQz0RxM1bOD=k24z9=E98AFfu2FWqNkmr4kw@mail.gmail.com>
+
+In-Reply-To: <CANJOhy=yjUzptdv2=huaL5zG1qGZMq88NNFjSoTMRYhUpB1Y0w@mail.gmail.com>
+
+References: <enwiki.5aeacf5fbe2a52.68194114@en.wikipedia.org>
+
+<CANhv5=HufhM5X5v80e3dwfu=OOAG50w=nBGx8GGRtE+xr+EufQ@mail.gmail.com>
+
+<CANJOhymFCihCXvy6tEOptro0CfrvkBeS8+ODi6ajERTmSaRMjg@mail.gmail.com>
+
+<CANJOhykFZVKnqU-ZLaSXove6FtsBgG+zKdnVOabGHkJTTUk_Fg@mail.gmail.com>
+
+<CANJOhy=yjUzptdv2=huaL5zG1qGZMq88NNFjSoTMRYhUpB1Y0w@mail.gmail.com>
+
+Subject: Re: Wikipedia email
+
+X-Mailer: Airmail (492)
+
+MIME-Version: 1.0
+
+Content-Type: multipart/alternative; boundary="5b680542_352d74c1_30c8"
+
+
+
+--5b680542_352d74c1_30c8
+
+Content-Type: text/plain; charset="utf-8"
+
+Content-Transfer-Encoding: quoted-printable
+
+Content-Disposition: inline
+
+
+
+I have re-written the article and removed any COI templates. Please make =
+
+sure that nobody from Treebo or related entities edits without COI disclo=
+
+sure.
+
+
+
+Best,
+
+
+
+Anand Chowdhary
+
+Chief Executive Officer
+
+Oswald Labs
+
+
+
+NL +31 6 44691056
+
+IN =C2=A0+91 9555297989
+
+
+
+On 6 August 2018 at 1:11:45 PM, Bhavuk Khandelwal (bhavukdz=40gmail.com) =
+
+wrote:
+
+
+
+Hi Anand,
+
+
+
+Hope you are doing great.
+
+
+
+Any update here=3F
+
+
+
+
+
+
+
+
+
+Thanks,
+
+Bhavuk
+
+
+
+On Mon, Jul 23, 2018 at 11:11 AM, Bhavuk Khandelwal <bhavukdz=40gmail.com=
+
+> wrote:
+
+Hi Anand,
+
+
+
+The issue is already escalated by other editors as well and my access to =
+
+edit that page is revoked. So, I will not be making any edits to that pag=
+
+e anymore.
+
+
+
+Requesting you=C2=A0 to remove COI template.
+
+
+
+
+
+Thanks,
+
+Bhavuk
+
+
+
+On Thu, May 3, 2018, 3:20 PM Bhavuk Khandelwal <bhavukdz=40gmail.com> wro=
+
+te:
+
+Sure Aanand
+
+
+
+Please feel free to add value to the existing piece.
+
+
+
+Pls let me know in case you need any info.
+
+
+
+On Thu, May 3, 2018, 2:38 PM Anand Chowdhary <anandchowdhary=40gmail.com>=
+
+wrote:
+
+Hi Bhavuk,
+
+
+
+I hope you're doing well.
+
+
+
+Wikipedia is a community-based encyclopedia so the very notion of =22hand=
+
+ling the Treebo hotels Wikipedia page=22 is against her values. Wikipedia=
+
+has a COI policy which strongly discourages people associated with compa=
+
+nies working on the encyclopedia entries of that company.
+
+
+
+Please read WP:COI for more information:=C2=A0https://en.wikipedia.org/wi=
+
+ki/Wikipedia:Conflict=5Fof=5Finterest
+
+
+
+I'm sure it's no big deal, I plan on redoing in introduction and adding s=
+
+ome more references, and then I'll remove the COI template. It has to sta=
+
+y until someone unbiased and unrelated to Treebo rewrites the article str=
+
+ucture.
+
+
+
+Best,
+
+
+
+On Thu, May 3, 2018 at 10:59 AM Wikipedia <wiki=40wikimedia.org> wrote:
+
+Hey,
+
+
+
+I got an email that you have created Wikipedia page talk. P=46B the messa=
+
+ge snippet:
+
+
+
+The Wikipedia page Talk:Treebo Hotels has been created on May 3, 2018
+
+by AnandChowdhary0, see https://en.wikipedia.org/wiki/Talk:Treebo=5FHotel=
+
+s
+
+for the current revision.
+
+
+
+What is this about=3F I am handling the Treebo hotels Wikipedia page. Let=
+
+me know if I can help you with anything.
+
+
+
+
+
+Thanks,
+
+Bhavuk
+
+
+
+--
+
+This email was sent by user =22Bhavukdz=22 on the English Wikipedia to us=
+
+er =22AnandChowdhary0=22. It has been automatically delivered and the Wik=
+
+imedia =46oundation cannot be held responsible for its contents.
+
+
+
+The sender has not been given the recipient's email address, nor any info=
+
+rmation about his/her email account; and the recipient has no obligation =
+
+to reply to this email or take any other action that might disclose his/h=
+
+er identity. If you respond, the sender will know your email address. =46=
+
+or further information on privacy, security, and replying, as well as abu=
+
+se and removal from emailing, see <https://en.wikipedia.org/wiki/Wikipedi=
+
+a:Email>.
+
+--
+
+Anand Chowdhary
+
+=46orbes 30 Under 30
+
+Chief Executive Officer
+
+=C2=A0Oswald Labs
+
+NL +31 6 44 69 10 56
+
+IN +91 955 529 7989
+
+
+
+
+
+--5b680542_352d74c1_30c8
+
+Content-Type: text/html; charset="utf-8"
+
+Content-Transfer-Encoding: quoted-printable
+
+Content-Disposition: inline
+
