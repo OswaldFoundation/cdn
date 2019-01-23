@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <button onclick="LedOn()">LED on</button>
+        <button onclick="LedOff()">LED off</button>
+        <button onclick="sendMessage()">Send SMS</button>
+        <script src="https://www.gstatic.com/firebasejs/5.8.0/firebase.js"></script>
+        <script>
+        var config = {
+            apiKey: "AIzaSyCcPwQ2OY0W-jSfotkoecyc68_8m1AfDVQ",
+            authDomain: "ibm-iot-escape-room.firebaseapp.com",
+            databaseURL: "https://ibm-iot-escape-room.firebaseio.com",
+            projectId: "ibm-iot-escape-room",
+        };
+        firebase.initializeApp(config);
+        const LedOff = () => {
+            console.log("LedOff");
+            firebase.database().ref().update({
+                led: "off"
+            })
+        }
+        const LedOn = () => {
+            console.log("Ledon");
+            firebase.database().ref().update({
+                led: "on"
+            })
+        }
+        const sendMessage = () => {
+            fetch("https://cors.io?https://maker.ifttt.com/trigger/project_button/with/key/cIslveLjbfBDQsMx1-toPLh1VpRquJBDLp8NCddG2wN");
+        }
+        </script>
+    </body>
+</html>
